@@ -1,0 +1,24 @@
+.btn-primary {
+  background-color: #0071ff !important;
+  color: white;
+  border-radius: 40px !important;
+  padding: 0.8rem 3.5rem !important;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+tbody,
+td,
+tfoot,
+th,
+thead,
+tr {
+  border: 0 !important;
+}
+
+.table {
+  width: 95% !important;
+  margin: 3rem auto !important;
+  color: black !important;
+  font-weight: 500 !important;
+}

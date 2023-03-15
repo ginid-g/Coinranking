@@ -1,0 +1,25 @@
+.bg-blue {
+  background-color: #f0f3fd !important;
+}
+
+.bg-purple {
+  background-color: #f6f2ff !important;
+}
+
+.bg-green {
+  background-color: #f0ffe6 !important;
+}
+
+.bg-aqua {
+  background-color: #ebf7ff !important;
+}
+
+.card-title {
+  font-size: 18px;
+  display: block;
+  font-family: sans-serif;
+}
+.main-content {
+  font-size: 42px;
+  font-weight: 500;
+}
